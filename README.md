@@ -30,7 +30,7 @@ Specifically, I looked at the following questions:
 5. What is the mean age of the passengers who survived?
 6. What were the factors that made people survive?
 
-## File Descriptions <a name="files"></a>
+## File Descriptions<a name="files"></a>
 
 The following are the files available in this repository:
 
@@ -46,4 +46,4 @@ The results are saved in the `Titanic_Dataset.ipynb` file in the repository.
 
 This study uses passenger data from the voyage of the RMS Titanic (1912). Data can be obtained from [Kaggle](https://www.kaggle.com/c/titanic/data).
 
-You can find the Licensing for the data and other descriptive information on [Kaggle](https://www.kaggle.com/).
+You can find the Licensing for the data and other descriptive information on [Kaggle website](https://www.kaggle.com/).
